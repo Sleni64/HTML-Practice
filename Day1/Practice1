@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title> My First Webpage </title>
+    </head>
+        <body>
+            <h1> header </h1>
+            <p> first sentence
+                <br> second sentence
+             </p>
+             <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.outlandaussies.com%2F&psig=AOvVaw0f1BcWWDsQcCRnGiXtP0J7&ust=1749749048325000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNjd7Kjx6Y0DFQAAAAAdAAAAABAE">
+        </body>
+</html>
