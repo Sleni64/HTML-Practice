@@ -1,0 +1,27 @@
+h1,h2
+{
+  color: green;
+  font-family:Arial;  
+}
+
+body
+{
+background-color: pink;
+color:white;
+font-family: Impact;
+}
+
+div p
+{
+    color:blue;
+}
+
+a:hover
+{
+    color:black;
+}
+
+input[type="text"]
+{
+    border:1px solid purple;
+}
