@@ -6,9 +6,9 @@ h1,h2
 
 article
 {
-background-image: {"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kinship.com%2Fdog-behavior%2Fsingleton-puppies&psig=AOvVaw3UzoatSm495qTHbKST_tIF&ust=1749845800232000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNCKvNzZ7I0DFQAAAAAdAAAAABAE"}}
-width: 500
-height: 500
+background-image: ("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kinship.com%2Fdog-behavior%2Fsingleton-puppies&psig=AOvVaw3UzoatSm495qTHbKST_tIF&ust=1749845800232000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNCKvNzZ7I0DFQAAAAAdAAAAABAE");
+width: 500;
+height: 500;
 color: blue;
 font family: Arial;
 }
