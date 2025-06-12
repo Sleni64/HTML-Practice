@@ -21,6 +21,12 @@ color:black ;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.blur
+{
+    backdrop-filter: blur(5px);
+    backround-color:pink;
+}
+
 div p
 {
     color:blue;
